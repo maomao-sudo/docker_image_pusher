@@ -1,1 +1,1 @@
-epi2melabs/wf-single-cell
+epi2me-labs/wf-single-cell
